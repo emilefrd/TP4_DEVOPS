@@ -39,18 +39,24 @@ Attention : il faut s'asurer d'avoir la bonne version de Terraform (Terraform v0
 ````bash
 terraform init 
 ````
+![alt text](screenshots/init.png)
 
 ````bash
 terraform plan 
 ````
+![alt text](screenshots/plan.png)
+
 
 ````bash
 terraform apply
 ````
+![alt text](screenshots/apply.png)
+![alt text](screenshots/apply2.png)
+
 ````bash
 terraform output
 ````
-
+![alt text](screenshots/output.png)
 
 ### 8. Connexion à la VM Azure avec SSH
 
