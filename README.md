@@ -61,7 +61,7 @@ terraform output
 ###Connexion à la VM Azure avec SSH
 
 ````bash
-ssh -i privateKey.txt devops@<ma_clé_publique_VM> cat /etc/os-release
+ssh -i privateKey.txt devops@20.216.191.92 cat /etc/os-release
 ````
 
 ````bash
